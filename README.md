@@ -4,4 +4,4 @@ To deliver a system that emulates the docking system and bikes and infrastructur
 
 ## Getting started
 
-`ghttps://github.com/clovellbsc/Boris-Bikes.git`
+`https://github.com/clovellbsc/Boris-Bikes.git`
